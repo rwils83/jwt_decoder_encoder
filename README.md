@@ -4,7 +4,7 @@ A simple JWT token encoder, decoder.
 ## How to use it?
 Encode and Decode jwt tokens, pretty simple
 
-optional arguments:
+optional arguments:  
   -h, --help            show this help message and exit  
   -d, --decode          Use to decode token. Returns payload section. For header information, use -g/--getheader  
   -e, --encode          Use to encode a token  
